@@ -156,30 +156,22 @@ plt.show()
 
 i) Using Averaging Filter
 </br>
-</br>
-</br>
-</br>
+![image](https://user-images.githubusercontent.com/103049243/170046809-75d32054-ba72-41e3-b9f3-d2e5fbcb79b9.png)
 </br>
 
 ii) Using Weighted Averaging Filter
 </br>
-</br>
-</br>
-</br>
+![image](https://user-images.githubusercontent.com/103049243/170046903-c0c33884-1f42-4268-8902-c7ca9c5a3dfa.png)
 </br>
 
 iii) Using Gaussian Filter
 </br>
-</br>
-</br>
-</br>
+![image](https://user-images.githubusercontent.com/103049243/170047013-55c91606-cfaa-403f-815b-de73b572b67b.png)
 </br>
 
 iv) Using Median Filter
 </br>
-</br>
-</br>
-</br>
+![image](https://user-images.githubusercontent.com/103049243/170047105-0d511947-84e8-4850-a1d2-8d914981866a.png)
 </br>
 
 ### 2. Sharpening Filters
@@ -187,16 +179,12 @@ iv) Using Median Filter
 
 i) Using Laplacian Kernal
 </br>
-</br>
-</br>
-</br>
+![image](https://user-images.githubusercontent.com/103049243/170047212-1688c598-1a2e-46d2-b363-ad3cf4d180f3.png)
 </br>
 
 ii) Using Laplacian Operator
 </br>
-</br>
-</br>
-</br>
+![image](https://user-images.githubusercontent.com/103049243/170047280-988269fc-6aeb-4ff0-ac07-a9fbd2f6afad.png)
 </br>
 
 ## Result:
